@@ -32,10 +32,10 @@ My goal is to build a diverse portfolio of open-source contributions and create 
 
 ## 👨‍💻 What I Do:
 
-- **Front-end Development: ** I specialize in building interactive and user-friendly interfaces using cutting-edge technologies such as HTML, CSS, and JavaScript frameworks like React.
-- **Back-end Development: ** My skills extend to server-side scripting and database management. I'm proficient in languages like Node.js, Python, and PHP, and I'm well-versed in various databases, including MySQL, MongoDB, and PostgreSQL.
-- **Full Stack Proficiency: ** I love bridging the gap between design and functionality, ensuring that applications are visually appealing, intuitive to use, and technically robust.
-- **E-commerce Development: ** I have hands-on experience in developing online stores and e-commerce solutions using platforms like Shopify. I can customize Shopify themes, integrate payment gateways, and optimize store performance for a seamless shopping experience.
+- **Front-end Development:** I specialize in building interactive and user-friendly interfaces using cutting-edge technologies such as HTML, CSS, and JavaScript frameworks like React.
+- **Back-end Development:** My skills extend to server-side scripting and database management. I'm proficient in languages like Node.js, Python, and PHP, and I'm well-versed in various databases, including MySQL, MongoDB, and PostgreSQL.
+- **Full Stack Proficiency:** I love bridging the gap between design and functionality, ensuring that applications are visually appealing, intuitive to use, and technically robust.
+- **E-commerce Development:** I have hands-on experience in developing online stores and e-commerce solutions using platforms like Shopify. I can customize Shopify themes, integrate payment gateways, and optimize store performance for a seamless shopping experience.
 
 ## 🌟 Why Work With Me:
 

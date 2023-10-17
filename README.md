@@ -23,11 +23,19 @@ I'm a passionate and experienced Full Stack Developer with a knack for crafting 
 - 💻 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - 🔭 I’m currently working on My basics to switch to a product based company.
 
+## 🚀 What I'm Planning
+
+While I may not have specific projects to showcase at this moment, I'm gearing up to start my open-source journey. 
+I have plans to dive into exciting projects, explore GitHub repositories, and collaborate with fellow developers. 
+My goal is to build a diverse portfolio of open-source contributions and create valuable software that makes a difference.
+
+
 ## 👨‍💻 What I Do:
 
-- **Front-end Development:** I specialize in building interactive and user-friendly interfaces using cutting-edge technologies such as HTML, CSS, and JavaScript frameworks like React.
-- **Back-end Development:** My skills extend to server-side scripting and database management. I'm proficient in languages like Node.js, Python, and PHP, and I'm well-versed in various databases, including MySQL, MongoDB, and PostgreSQL.
-- **Full Stack Proficiency:** I love bridging the gap between design and functionality, ensuring that applications are visually appealing, intuitive to use, and technically robust.
+- **Front-end Development: ** I specialize in building interactive and user-friendly interfaces using cutting-edge technologies such as HTML, CSS, and JavaScript frameworks like React.
+- **Back-end Development: ** My skills extend to server-side scripting and database management. I'm proficient in languages like Node.js, Python, and PHP, and I'm well-versed in various databases, including MySQL, MongoDB, and PostgreSQL.
+- **Full Stack Proficiency: ** I love bridging the gap between design and functionality, ensuring that applications are visually appealing, intuitive to use, and technically robust.
+- **E-commerce Development: ** I have hands-on experience in developing online stores and e-commerce solutions using platforms like Shopify. I can customize Shopify themes, integrate payment gateways, and optimize store performance for a seamless shopping experience.
 
 ## 🌟 Why Work With Me:
 
@@ -50,15 +58,6 @@ I'm a passionate and experienced Full Stack Developer with a knack for crafting 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-## 🌱 Projects
-
-Here are some projects I'm proud of:
-
-- [Project Name](Link to Project Repository) - Brief description of the project.
-- [Another Project](Link to Project Repository) - Brief description of the project.
-
-Feel free to explore my repositories to find more interesting projects!
 
 ## 📈 GitHub Stats
 

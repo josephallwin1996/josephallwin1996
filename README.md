@@ -66,7 +66,7 @@ Feel free to explore my repositories to find more interesting projects!
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" /></a>
 </div>

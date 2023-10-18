@@ -21,7 +21,6 @@ I'm a passionate and experienced Full Stack Developer with a knack for crafting 
 ## 🚀 Quick Facts
 
 - 💻 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
-- 🔭 I’m currently working on My basics to switch to a product based company.
 
 ## 🚀 What I'm Planning
 

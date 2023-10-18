@@ -48,7 +48,7 @@ My goal is to build a diverse portfolio of open-source contributions and create 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40">&nbsp;
-  <img src="https://cdn.shopify.com/shopify-marketing_assets/static/shopify-logo-stacked-rgb-197x75.svg" alt="Shopify" width="100" height="40">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" alt="Shopify" width="100" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
